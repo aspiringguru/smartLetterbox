@@ -41,5 +41,5 @@ void loop() {
   Serial.println("setting LOW");
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
   digitalWrite(relay_pin, LOW);
-  delay(2000);                       // wait for a second
+  delay(9000);                       // wait for a second
 }
