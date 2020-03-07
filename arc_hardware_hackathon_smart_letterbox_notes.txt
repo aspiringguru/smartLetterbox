@@ -1,0 +1,18 @@
+australia post = startrek
+
+uber didi hyperlocal food deliveryeis with amazon
+
+gojek
+
+
+https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/boards_manager.md
+
+
+https://www.circuitbasics.com/setting-up-a-5v-relay-on-the-arduino/
+
+https://maker.pro/everything-esp/projects/how-to-control-a-relay-module-with-esp32
+
+
+
+
+https://www.instructables.com/id/Blinking-an-LED-With-ESP32/
